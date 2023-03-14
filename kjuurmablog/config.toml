@@ -1,0 +1,4 @@
+baseURL = 'https://kjuurma.github.io/'
+languageCode = 'en-us'
+title = 'KJ Blog and Portfolio'
+theme="hugo-ficurinia"

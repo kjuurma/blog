@@ -1,0 +1,4 @@
+[submodule "kjuurmablog/public"]
+	path = kjuurmablog/public
+	url = https://github.com/kjuurma/kjuurma.github.io.git
+	branch = main
