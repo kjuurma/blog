@@ -2,8 +2,6 @@ baseURL = "example.com"
 title = "Kaarel's blog and portfolio"
 theme = "manis-hugo-theme"
 
-# Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2019 Yurizal Susanto"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
@@ -47,8 +45,6 @@ pygmentsUseClasses = true
 	tagline = "A little insight to my thoughts and works"
 	# If true give attribution to this theme
 	themeAttrib = true
-	# URL to license file, can be outside of your domain
-	licenseURL = "/about/license"
 
 	# Configure which sections for Latest Posts
 	mainSections = ["blog", "post"]
