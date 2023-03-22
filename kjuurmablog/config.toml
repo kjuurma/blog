@@ -28,7 +28,8 @@ pygmentsUseClasses = true
 	
 	[[menu.main]]
 		name = "About"
-		url = "/about"
+		pageRef = "/about"
+		weight = 10
 
 [taxonomies]
 	tag = "tags"
